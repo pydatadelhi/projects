@@ -72,7 +72,7 @@ How do you plan to take the project to v1.0(stable)?
 There are many reasons to submit your project to PyData Delhi, few of them are:
 
 - **Community support**: PyData Delhi is a data science community of many supportive members from the industry and academia. The community is there to help you.
-- **Platform**: PyData Delhi has been constant in organizing meetups and conferences. We would really for you to showcase and publish your work through one of our events.
+- **Platform**: PyData Delhi has been constant in organizing meetups and conferences. We would showcase and publish your work through one of our events.
 - **Open Source**: We believe in over-source software and work.
 
 If you have any other platform you want to propose your work for, we encourage that too, since the higher motive here is to help your find the platform that fits you.
@@ -108,7 +108,7 @@ It will make all the members happy if you want to join the community; it doesn't
 
 ## Community
 
-PyData - Delhi has members and contributors around Delhi and the world,  constantly improving the community and helping others as well to do so. To get in touch with the community, you can use the following communication channels.
+PyData Delhi has members and contributors around Delhi and the world,  constantly improving the community and helping others as well to do so. To get in touch with the community, you can use the following communication channels.
 
 **Meetup**: [https://www.meetup.com/PyDataDelhi/](https://www.meetup.com/PyDataDelhi/) <br>
 **Twitter**: [https://twitter.com/PyDataDelhi](https://twitter.com/PyDataDelhi) <br>
