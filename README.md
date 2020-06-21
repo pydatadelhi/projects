@@ -19,7 +19,7 @@ Starting with a PyData Workshop at the Googleplex in Mountain View, CA, in 2012 
 
 ### PyData Delhi
 
-PyData Delhi is a gathering of users and developers of data analysis tools in Python. A primary goal of the meetup is to provide a venue for users across all the various domains of data analysis to share their experiences and their techniques, as well as highlight the most triumphs and potential pitfalls of using Python for certain kinds of problems.
+PyData Delhi is a gathering of users and developers of data analysis tools in Python. PyData Delhi starte back in October, 2016 and we've been growing since then. We've organized 40+ meetups and 3 conferences so far. A primary goal of the meetup is to provide a platform for users across all the various domains of data analysis to share their experiences and their techniques, as well as highlight the most triumphs and potential pitfalls of using Python for certain kinds of problems.
 
 ## Projects
 
